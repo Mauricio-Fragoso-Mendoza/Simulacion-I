@@ -1,2 +1,0 @@
-import tabulate
-def generator(a,b,m,x0):
